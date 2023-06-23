@@ -9,7 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@codemirror/lang-javascript": "^6.1.9",
+    "@codemirror/theme-one-dark": "^6.1.2",
     "codemirror": "^6.0.1",
+    "eslint-linter-browserify": "^8.43.0",
     "vue": "^3.2.47",
     "vue-codemirror6": "^1.1.22",
     "vue-multipane": "^0.9.5"
